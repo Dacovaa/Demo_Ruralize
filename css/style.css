@@ -117,10 +117,11 @@ nav a:hover {
 }
 
 /* SEÇÃO DE EMPRESA */
-.image-container-empresa {
+.image-container-empresa{
     width: 80%;
     height: auto;
     border-radius: 8px;
+    filter: brightness(0) invert(1);
 }
 
 
